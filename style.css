@@ -1,5 +1,38 @@
 body{
 color:#000000 ;
 background-color: #FFFF00	;
+margin: 0px;
+margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 2px #ff6600;
+    margin: 20px;
+    font-size: 32px;
+    color: blueviolet;
+
 
 }
+
+
+
+
+
+
+section{
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: rgb(90, 87, 87);
+    display: flex;
+justify-content: center;
+
+
+
+
+}
+
+
+
+
+
